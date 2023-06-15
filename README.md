@@ -115,7 +115,7 @@ This is a project for a car rental website. It is a project for the College Mini
 
 ##  License
 
-[MIT](https://choosealicense.com/licenses/mit/) © [Aklilu Mandefro](https://github.com/Aklilu-Mandefro)
+[MIT](https://choosealicense.com/licenses/mit/) © [Aklilu Mandefro](https://github.com/martataddese)
 - This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
